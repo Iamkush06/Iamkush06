@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Kush
+## Hi there 👋
 
 <!--
 **2006KUSH/2006KUSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
